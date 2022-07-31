@@ -7,7 +7,7 @@
 
 
 ### This is how it looks 👀
-![Preview](./preview.png)
+![Preview](../preview.png)
 
 ## Go check it out live👉[here](https://css-practice-project-1.netlify.app/)
 
