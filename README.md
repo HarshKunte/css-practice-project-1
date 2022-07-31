@@ -9,6 +9,6 @@
 ### This is how it looks 👀
 ![Preview](./preview.png)
 
-## Go check it out live👉[here](https://css-practice-project-1.netlify.app/)
+## Go check it out live👉[here](https://street-style-home.netlify.app/)
 
 It took 4hrs to complete this masterpiece.😮‍💨
