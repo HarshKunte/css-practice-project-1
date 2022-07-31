@@ -1,13 +1,14 @@
-# Project 1
-## made by **Harsh Kunte**
+## Hello👋 I'm **Harsh Kunte**
+### This is a creative street style design home-page.
 
-### Things I learnt in this project
+### Things I learnt in this project🤯
 - CSS positions
 - Z-index
 
-### Honest time it took to finish the project was 4 hrs.
 
 ### This is how it looks 👀
 ![Preview](./preview.png)
 
 ## Go check it out live👉[here](https://css-practice-project-1.netlify.app/)
+
+It took 4hrs to complete this masterpiece.😮‍💨
